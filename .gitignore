@@ -1,1 +1,18 @@
-Basic_transformer.ipynb
+/Transformer_Project_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Logs
+*.log

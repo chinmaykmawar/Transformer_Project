@@ -1,0 +1,7 @@
+Vocabulary Size: 8000
+Special Tokens:
+[PAD]
+[UNK]
+[CLS]
+[SEP]
+[MASK]

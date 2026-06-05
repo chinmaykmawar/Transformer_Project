@@ -56,7 +56,7 @@ def main():
     print(
         "Wo Grad:",
         mha.Wo.weight.grad is not None
-    )
+    ) 
 
     for i, head in enumerate(mha.heads):
         print(

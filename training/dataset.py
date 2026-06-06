@@ -1,6 +1,6 @@
 import math
 import torch
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 
 class MLMDataset(Dataset):
     def __init__(self, token_ids_file,seq_len=128, mask_prob=0.15, *args, **kwargs):

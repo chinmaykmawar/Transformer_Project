@@ -1,9 +1,15 @@
-/Transformer_Project_venv/
-/data/
+# Large generated files
+data/Gutenberg_Books+Metadata/books/
+data/Gutenberg_Books+Metadata/processed/
+
+# Virtual environment
+Transformer_Project_venv/
+
 
 # Python cache
 __pycache__/
 *.py[cod]
+*.pyc
 
 # Jupyter
 .ipynb_checkpoints/

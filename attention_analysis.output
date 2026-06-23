@@ -1,0 +1,1632 @@
+BatchItem : 0, layer:0, head:0 -> min:0.08235197514295578, max0.22615163028240204, entropy :1.9155406951904297
+token the        -> together   with weight 0.211
+token king       -> walked     with weight 0.203
+token and        -> queen      with weight 0.226
+token the        -> together   with weight 0.205
+token queen      -> together   with weight 0.191
+token walked     -> the        with weight 0.184
+token together   -> walked     with weight 0.180
+BatchItem : 0, layer:0, head:1 -> min:0.04705160856246948, max0.43946176767349243, entropy :1.8197296857833862
+token the        -> king       with weight 0.227
+token king       -> and        with weight 0.198
+token and        -> walked     with weight 0.410
+token the        -> walked     with weight 0.218
+token queen      -> walked     with weight 0.346
+token walked     -> the        with weight 0.173
+token together   -> walked     with weight 0.439
+BatchItem : 0, layer:0, head:2 -> min:0.06125228852033615, max0.2822158932685852, entropy :1.8871327638626099
+token the        -> together   with weight 0.277
+token king       -> king       with weight 0.202
+token and        -> and        with weight 0.170
+token the        -> the        with weight 0.170
+token queen      -> walked     with weight 0.264
+token walked     -> together   with weight 0.274
+token together   -> king       with weight 0.282
+BatchItem : 0, layer:0, head:3 -> min:0.0792313814163208, max0.21901176869869232, entropy :1.9207041263580322
+token the        -> walked     with weight 0.210
+token king       -> walked     with weight 0.175
+token and        -> together   with weight 0.204
+token the        -> together   with weight 0.210
+token queen      -> king       with weight 0.182
+token walked     -> together   with weight 0.219
+token together   -> the        with weight 0.194
+BatchItem : 0, layer:0, head:4 -> min:0.0335560068488121, max0.28221985697746277, entropy :1.8876075744628906
+token the        -> queen      with weight 0.194
+token king       -> walked     with weight 0.282
+token and        -> walked     with weight 0.190
+token the        -> king       with weight 0.183
+token queen      -> the        with weight 0.215
+token walked     -> together   with weight 0.221
+token together   -> walked     with weight 0.211
+BatchItem : 0, layer:0, head:5 -> min:0.06422069668769836, max0.4080018699169159, entropy :1.8784550428390503
+token the        -> together   with weight 0.180
+token king       -> walked     with weight 0.260
+token and        -> and        with weight 0.169
+token the        -> the        with weight 0.181
+token queen      -> together   with weight 0.217
+token walked     -> king       with weight 0.408
+token together   -> and        with weight 0.192
+BatchItem : 0, layer:0, head:6 -> min:0.07552135735750198, max0.223269984126091, entropy :1.9201091527938843
+token the        -> queen      with weight 0.208
+token king       -> walked     with weight 0.183
+token and        -> king       with weight 0.176
+token the        -> king       with weight 0.180
+token queen      -> king       with weight 0.185
+token walked     -> king       with weight 0.214
+token together   -> the        with weight 0.223
+BatchItem : 0, layer:0, head:7 -> min:0.05732715502381325, max0.29019805788993835, entropy :1.8960492610931396
+token the        -> queen      with weight 0.187
+token king       -> walked     with weight 0.187
+token and        -> together   with weight 0.235
+token the        -> walked     with weight 0.215
+token queen      -> together   with weight 0.165
+token walked     -> walked     with weight 0.290
+token together   -> together   with weight 0.234
+BatchItem : 0, layer:1, head:0 -> min:0.02440371923148632, max0.3431006669998169, entropy :1.691686987876892
+token the        -> the        with weight 0.278
+token king       -> the        with weight 0.266
+token and        -> the        with weight 0.278
+token the        -> the        with weight 0.335
+token queen      -> the        with weight 0.300
+token walked     -> king       with weight 0.321
+token together   -> the        with weight 0.343
+BatchItem : 0, layer:1, head:1 -> min:0.022536421194672585, max0.35288524627685547, entropy :1.6975661516189575
+token the        -> the        with weight 0.286
+token king       -> the        with weight 0.285
+token and        -> the        with weight 0.256
+token the        -> the        with weight 0.287
+token queen      -> the        with weight 0.228
+token walked     -> the        with weight 0.281
+token together   -> the        with weight 0.353
+BatchItem : 0, layer:1, head:2 -> min:0.006696498021483421, max0.3359197974205017, entropy :1.5677850246429443
+token the        -> the        with weight 0.331
+token king       -> the        with weight 0.336
+token and        -> the        with weight 0.327
+token the        -> the        with weight 0.316
+token queen      -> the        with weight 0.326
+token walked     -> the        with weight 0.277
+token together   -> the        with weight 0.327
+BatchItem : 0, layer:1, head:3 -> min:1.6788415450719185e-05, max0.9824200868606567, entropy :0.6745220422744751
+token the        -> the        with weight 0.882
+token king       -> the        with weight 0.982
+token and        -> king       with weight 0.726
+token the        -> and        with weight 0.643
+token queen      -> the        with weight 0.959
+token walked     -> the        with weight 0.631
+token together   -> walked     with weight 0.406
+BatchItem : 0, layer:1, head:4 -> min:0.0066733406856656075, max0.3899223506450653, entropy :1.6182647943496704
+token the        -> the        with weight 0.279
+token king       -> the        with weight 0.385
+token and        -> and        with weight 0.271
+token the        -> the        with weight 0.302
+token queen      -> the        with weight 0.369
+token walked     -> the        with weight 0.243
+token together   -> the        with weight 0.390
+BatchItem : 0, layer:1, head:5 -> min:0.004062150605022907, max0.386149138212204, entropy :1.5607870817184448
+token the        -> the        with weight 0.277
+token king       -> the        with weight 0.371
+token and        -> the        with weight 0.370
+token the        -> the        with weight 0.290
+token queen      -> the        with weight 0.281
+token walked     -> and        with weight 0.331
+token together   -> the        with weight 0.386
+BatchItem : 0, layer:1, head:6 -> min:0.0062014153227210045, max0.35897690057754517, entropy :1.5402225255966187
+token the        -> the        with weight 0.337
+token king       -> the        with weight 0.336
+token and        -> the        with weight 0.342
+token the        -> the        with weight 0.313
+token queen      -> the        with weight 0.291
+token walked     -> the        with weight 0.327
+token together   -> the        with weight 0.359
+BatchItem : 0, layer:1, head:7 -> min:0.02449813485145569, max0.358140766620636, entropy :1.6485135555267334
+token the        -> the        with weight 0.302
+token king       -> the        with weight 0.291
+token and        -> the        with weight 0.313
+token the        -> the        with weight 0.333
+token queen      -> the        with weight 0.308
+token walked     -> the        with weight 0.277
+token together   -> the        with weight 0.358
+BatchItem : 0, layer:2, head:0 -> min:7.459455687690297e-13, max0.9999980926513672, entropy :0.006278684828430414
+token the        -> and        with weight 1.000
+token king       -> and        with weight 1.000
+token and        -> and        with weight 0.995
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:1 -> min:2.594103543085424e-10, max0.9999938011169434, entropy :0.013117906637489796
+token the        -> and        with weight 1.000
+token king       -> and        with weight 1.000
+token and        -> and        with weight 0.987
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:2 -> min:1.993590974811235e-14, max0.9999995231628418, entropy :0.07788101583719254
+token the        -> and        with weight 1.000
+token king       -> and        with weight 0.999
+token and        -> and        with weight 0.876
+token the        -> and        with weight 0.999
+token queen      -> and        with weight 0.999
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:3 -> min:1.076392948107241e-07, max0.9999496936798096, entropy :0.043878257274627686
+token the        -> and        with weight 1.000
+token king       -> and        with weight 0.998
+token and        -> and        with weight 0.948
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:4 -> min:1.0767028935099177e-10, max0.9999988079071045, entropy :0.034044332802295685
+token the        -> and        with weight 0.992
+token king       -> and        with weight 1.000
+token and        -> and        with weight 0.971
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:5 -> min:1.4217715682074764e-14, max0.9999954700469971, entropy :0.008811983279883862
+token the        -> and        with weight 1.000
+token king       -> and        with weight 1.000
+token and        -> and        with weight 0.991
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:6 -> min:3.529889575082379e-11, max0.9999997615814209, entropy :0.004234118852764368
+token the        -> and        with weight 1.000
+token king       -> and        with weight 1.000
+token and        -> and        with weight 0.997
+token the        -> and        with weight 1.000
+token queen      -> and        with weight 1.000
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:2, head:7 -> min:1.145561239184606e-15, max0.9999998807907104, entropy :0.03331126645207405
+token the        -> and        with weight 1.000
+token king       -> and        with weight 0.998
+token and        -> and        with weight 0.984
+token the        -> and        with weight 0.999
+token queen      -> and        with weight 0.979
+token walked     -> and        with weight 1.000
+token together   -> and        with weight 1.000
+BatchItem : 0, layer:3, head:0 -> min:0.0009486216004006565, max0.4721715748310089, entropy :1.417593002319336
+token the        -> the        with weight 0.339
+token king       -> the        with weight 0.360
+token and        -> the        with weight 0.373
+token the        -> the        with weight 0.390
+token queen      -> the        with weight 0.472
+token walked     -> the        with weight 0.360
+token together   -> the        with weight 0.378
+BatchItem : 0, layer:3, head:1 -> min:0.0006858356646262109, max0.6502766609191895, entropy :1.1346442699432373
+token the        -> the        with weight 0.509
+token king       -> the        with weight 0.649
+token and        -> the        with weight 0.411
+token the        -> the        with weight 0.561
+token queen      -> the        with weight 0.650
+token walked     -> the        with weight 0.543
+token together   -> the        with weight 0.369
+BatchItem : 0, layer:3, head:2 -> min:0.0013881741324439645, max0.4193642735481262, entropy :1.5427318811416626
+token the        -> the        with weight 0.321
+token king       -> together   with weight 0.311
+token and        -> the        with weight 0.284
+token the        -> the        with weight 0.374
+token queen      -> the        with weight 0.419
+token walked     -> the        with weight 0.277
+token together   -> together   with weight 0.388
+BatchItem : 0, layer:3, head:3 -> min:0.002246774034574628, max0.4959408938884735, entropy :1.455816626548767
+token the        -> the        with weight 0.328
+token king       -> the        with weight 0.496
+token and        -> the        with weight 0.345
+token the        -> the        with weight 0.332
+token queen      -> the        with weight 0.484
+token walked     -> queen      with weight 0.302
+token together   -> the        with weight 0.286
+BatchItem : 0, layer:3, head:4 -> min:0.010058474726974964, max0.4026118814945221, entropy :1.6622304916381836
+token the        -> the        with weight 0.339
+token king       -> the        with weight 0.264
+token and        -> the        with weight 0.290
+token the        -> the        with weight 0.389
+token queen      -> the        with weight 0.403
+token walked     -> the        with weight 0.248
+token together   -> king       with weight 0.184
+BatchItem : 0, layer:3, head:5 -> min:0.004931900184601545, max0.3781639039516449, entropy :1.6649740934371948
+token the        -> the        with weight 0.184
+token king       -> the        with weight 0.294
+token and        -> the        with weight 0.231
+token the        -> the        with weight 0.208
+token queen      -> the        with weight 0.378
+token walked     -> the        with weight 0.341
+token together   -> the        with weight 0.355
+BatchItem : 0, layer:3, head:6 -> min:0.0015446501784026623, max0.40774238109588623, entropy :1.7458280324935913
+token the        -> the        with weight 0.260
+token king       -> and        with weight 0.189
+token and        -> the        with weight 0.261
+token the        -> the        with weight 0.310
+token queen      -> the        with weight 0.408
+token walked     -> walked     with weight 0.246
+token together   -> walked     with weight 0.247
+BatchItem : 0, layer:3, head:7 -> min:0.00019157510541845113, max0.48510172963142395, entropy :1.2885138988494873
+token the        -> the        with weight 0.386
+token king       -> the        with weight 0.451
+token and        -> the        with weight 0.328
+token the        -> the        with weight 0.420
+token queen      -> the        with weight 0.485
+token walked     -> the        with weight 0.372
+token together   -> the        with weight 0.425
+BatchItem : 0, layer:4, head:0 -> min:0.04751729592680931, max0.36080893874168396, entropy :1.8722366094589233
+token the        -> together   with weight 0.234
+token king       -> queen      with weight 0.239
+token and        -> king       with weight 0.221
+token the        -> together   with weight 0.187
+token queen      -> walked     with weight 0.361
+token walked     -> together   with weight 0.200
+token together   -> walked     with weight 0.233
+BatchItem : 0, layer:4, head:1 -> min:0.0009854428935796022, max0.9158362150192261, entropy :0.9611209630966187
+token the        -> the        with weight 0.654
+token king       -> the        with weight 0.821
+token and        -> king       with weight 0.678
+token the        -> and        with weight 0.368
+token queen      -> the        with weight 0.819
+token walked     -> walked     with weight 0.471
+token together   -> walked     with weight 0.916
+BatchItem : 0, layer:4, head:2 -> min:0.012719362042844296, max0.3692869246006012, entropy :1.6477903127670288
+token the        -> king       with weight 0.271
+token king       -> queen      with weight 0.296
+token and        -> walked     with weight 0.369
+token the        -> walked     with weight 0.285
+token queen      -> walked     with weight 0.261
+token walked     -> walked     with weight 0.336
+token together   -> walked     with weight 0.321
+BatchItem : 0, layer:4, head:3 -> min:5.96159732690893e-10, max0.9895514845848083, entropy :0.24118264019489288
+token the        -> king       with weight 0.988
+token king       -> and        with weight 0.965
+token and        -> the        with weight 0.829
+token the        -> queen      with weight 0.990
+token queen      -> walked     with weight 0.906
+token walked     -> together   with weight 0.948
+token together   -> together   with weight 0.956
+BatchItem : 0, layer:4, head:4 -> min:0.0037202031817287207, max0.5926058888435364, entropy :1.5086785554885864
+token the        -> walked     with weight 0.451
+token king       -> walked     with weight 0.248
+token and        -> walked     with weight 0.593
+token the        -> together   with weight 0.511
+token queen      -> together   with weight 0.416
+token walked     -> together   with weight 0.382
+token together   -> walked     with weight 0.339
+BatchItem : 0, layer:4, head:5 -> min:0.043742455542087555, max0.4548572301864624, entropy :1.7692538499832153
+token the        -> walked     with weight 0.320
+token king       -> the        with weight 0.253
+token and        -> walked     with weight 0.455
+token the        -> walked     with weight 0.249
+token queen      -> king       with weight 0.213
+token walked     -> walked     with weight 0.319
+token together   -> king       with weight 0.348
+BatchItem : 0, layer:4, head:6 -> min:0.002137688687071204, max0.8490793108940125, entropy :1.2547403573989868
+token the        -> and        with weight 0.422
+token king       -> the        with weight 0.299
+token and        -> walked     with weight 0.284
+token the        -> walked     with weight 0.559
+token queen      -> together   with weight 0.709
+token walked     -> together   with weight 0.849
+token together   -> together   with weight 0.657
+BatchItem : 0, layer:4, head:7 -> min:0.008688476867973804, max0.48264068365097046, entropy :1.631240725517273
+token the        -> king       with weight 0.382
+token king       -> queen      with weight 0.450
+token and        -> king       with weight 0.267
+token the        -> king       with weight 0.377
+token queen      -> queen      with weight 0.483
+token walked     -> walked     with weight 0.337
+token together   -> together   with weight 0.214
+BatchItem : 0, layer:5, head:0 -> min:0.0006052591488696635, max0.6217080354690552, entropy :1.4288158416748047
+token the        -> king       with weight 0.622
+token king       -> king       with weight 0.321
+token and        -> walked     with weight 0.256
+token the        -> queen      with weight 0.554
+token queen      -> queen      with weight 0.295
+token walked     -> together   with weight 0.491
+token together   -> together   with weight 0.533
+BatchItem : 0, layer:5, head:1 -> min:0.0004699892597272992, max0.8884360790252686, entropy :1.1735190153121948
+token the        -> queen      with weight 0.504
+token king       -> queen      with weight 0.596
+token and        -> and        with weight 0.223
+token the        -> queen      with weight 0.367
+token queen      -> queen      with weight 0.888
+token walked     -> walked     with weight 0.776
+token together   -> walked     with weight 0.409
+BatchItem : 0, layer:5, head:2 -> min:0.0026051958557218313, max0.6367236971855164, entropy :1.3007508516311646
+token the        -> the        with weight 0.456
+token king       -> the        with weight 0.565
+token and        -> and        with weight 0.360
+token the        -> king       with weight 0.413
+token queen      -> and        with weight 0.628
+token walked     -> and        with weight 0.605
+token together   -> walked     with weight 0.637
+BatchItem : 0, layer:5, head:3 -> min:0.00013886640954297036, max0.887965202331543, entropy :1.0145201683044434
+token the        -> the        with weight 0.535
+token king       -> king       with weight 0.888
+token and        -> and        with weight 0.508
+token the        -> and        with weight 0.533
+token queen      -> queen      with weight 0.706
+token walked     -> together   with weight 0.491
+token together   -> together   with weight 0.638
+BatchItem : 0, layer:5, head:4 -> min:0.0028468556702136993, max0.6172801852226257, entropy :1.3799279928207397
+token the        -> queen      with weight 0.280
+token king       -> king       with weight 0.616
+token and        -> together   with weight 0.359
+token the        -> the        with weight 0.319
+token queen      -> queen      with weight 0.595
+token walked     -> walked     with weight 0.550
+token together   -> together   with weight 0.617
+BatchItem : 0, layer:5, head:5 -> min:0.027220094576478004, max0.4056430757045746, entropy :1.7157877683639526
+token the        -> the        with weight 0.256
+token king       -> the        with weight 0.389
+token and        -> the        with weight 0.271
+token the        -> the        with weight 0.328
+token queen      -> the        with weight 0.406
+token walked     -> and        with weight 0.211
+token together   -> and        with weight 0.245
+BatchItem : 0, layer:5, head:6 -> min:2.4968144316517282e-06, max0.9885594248771667, entropy :0.5585911870002747
+token the        -> king       with weight 0.968
+token king       -> and        with weight 0.975
+token and        -> the        with weight 0.574
+token the        -> queen      with weight 0.989
+token queen      -> walked     with weight 0.678
+token walked     -> together   with weight 0.751
+token together   -> together   with weight 0.638
+BatchItem : 0, layer:5, head:7 -> min:2.401902975179837e-06, max0.9849541187286377, entropy :0.350237637758255
+token the        -> the        with weight 0.985
+token king       -> the        with weight 0.970
+token and        -> king       with weight 0.903
+token the        -> and        with weight 0.917
+token queen      -> the        with weight 0.979
+token walked     -> walked     with weight 0.640
+token together   -> walked     with weight 0.850
+BatchItem : 1, layer:0, head:0 -> min:0.09090195596218109, max0.2889060974121094, entropy :1.569375991821289
+token he         -> to         with weight 0.255
+token went       -> he         with weight 0.278
+token to         -> he         with weight 0.241
+token the        -> to         with weight 0.282
+token house      -> the        with weight 0.289
+BatchItem : 1, layer:0, head:1 -> min:0.10125480592250824, max0.29176682233810425, entropy :1.5752499103546143
+token he         -> he         with weight 0.261
+token went       -> house      with weight 0.292
+token to         -> to         with weight 0.256
+token the        -> house      with weight 0.264
+token house      -> went       with weight 0.287
+BatchItem : 1, layer:0, head:2 -> min:0.09637583047151566, max0.29899728298187256, entropy :1.5824286937713623
+token he         -> went       with weight 0.255
+token went       -> to         with weight 0.279
+token to         -> he         with weight 0.248
+token the        -> went       with weight 0.240
+token house      -> the        with weight 0.299
+BatchItem : 1, layer:0, head:3 -> min:0.11514508724212646, max0.31671884655952454, entropy :1.5792319774627686
+token he         -> house      with weight 0.279
+token went       -> house      with weight 0.317
+token to         -> the        with weight 0.219
+token the        -> house      with weight 0.229
+token house      -> the        with weight 0.303
+BatchItem : 1, layer:0, head:4 -> min:0.09416811168193817, max0.3703913390636444, entropy :1.5474339723587036
+token he         -> he         with weight 0.256
+token went       -> house      with weight 0.304
+token to         -> went       with weight 0.370
+token the        -> he         with weight 0.286
+token house      -> the        with weight 0.325
+BatchItem : 1, layer:0, head:5 -> min:0.11615334451198578, max0.324972003698349, entropy :1.586566686630249
+token he         -> to         with weight 0.253
+token went       -> to         with weight 0.325
+token to         -> the        with weight 0.249
+token the        -> went       with weight 0.254
+token house      -> house      with weight 0.243
+BatchItem : 1, layer:0, head:6 -> min:0.0680117979645729, max0.3163277804851532, entropy :1.5665818452835083
+token he         -> to         with weight 0.283
+token went       -> the        with weight 0.275
+token to         -> house      with weight 0.244
+token the        -> to         with weight 0.255
+token house      -> to         with weight 0.316
+BatchItem : 1, layer:0, head:7 -> min:0.07318640500307083, max0.4159126579761505, entropy :1.5496766567230225
+token he         -> to         with weight 0.264
+token went       -> to         with weight 0.293
+token to         -> house      with weight 0.260
+token the        -> to         with weight 0.235
+token house      -> went       with weight 0.416
+BatchItem : 1, layer:1, head:0 -> min:0.05310359597206116, max0.3512795567512512, entropy :1.4724808931350708
+token he         -> to         with weight 0.324
+token went       -> to         with weight 0.314
+token to         -> to         with weight 0.340
+token the        -> the        with weight 0.351
+token house      -> the        with weight 0.294
+BatchItem : 1, layer:1, head:1 -> min:0.05000409856438637, max0.39534667134284973, entropy :1.4280517101287842
+token he         -> the        with weight 0.395
+token went       -> to         with weight 0.360
+token to         -> the        with weight 0.359
+token the        -> to         with weight 0.322
+token house      -> the        with weight 0.349
+BatchItem : 1, layer:1, head:2 -> min:0.024693632498383522, max0.36580541729927063, entropy :1.3860180377960205
+token he         -> to         with weight 0.349
+token went       -> to         with weight 0.319
+token to         -> to         with weight 0.366
+token the        -> the        with weight 0.352
+token house      -> to         with weight 0.309
+BatchItem : 1, layer:1, head:3 -> min:1.3289994967635721e-05, max0.9309372901916504, entropy :0.6479625105857849
+token he         -> he         with weight 0.657
+token went       -> he         with weight 0.856
+token to         -> went       with weight 0.598
+token the        -> to         with weight 0.727
+token house      -> the        with weight 0.931
+BatchItem : 1, layer:1, head:4 -> min:0.05335457995533943, max0.3829173445701599, entropy :1.459174394607544
+token he         -> the        with weight 0.338
+token went       -> the        with weight 0.378
+token to         -> the        with weight 0.311
+token the        -> the        with weight 0.324
+token house      -> the        with weight 0.383
+BatchItem : 1, layer:1, head:5 -> min:0.036440398544073105, max0.48513203859329224, entropy :1.3596831560134888
+token he         -> he         with weight 0.485
+token went       -> the        with weight 0.423
+token to         -> to         with weight 0.318
+token the        -> he         with weight 0.332
+token house      -> the        with weight 0.382
+BatchItem : 1, layer:1, head:6 -> min:0.0300372876226902, max0.44211089611053467, entropy :1.3505388498306274
+token he         -> the        with weight 0.375
+token went       -> the        with weight 0.442
+token to         -> the        with weight 0.398
+token the        -> to         with weight 0.368
+token house      -> the        with weight 0.414
+BatchItem : 1, layer:1, head:7 -> min:0.05311792716383934, max0.41312146186828613, entropy :1.4247901439666748
+token he         -> to         with weight 0.351
+token went       -> the        with weight 0.313
+token to         -> the        with weight 0.391
+token the        -> the        with weight 0.413
+token house      -> the        with weight 0.327
+BatchItem : 1, layer:2, head:0 -> min:2.727706487348769e-07, max0.9999608993530273, entropy :0.008308353833854198
+token he         -> the        with weight 1.000
+token went       -> the        with weight 1.000
+token to         -> the        with weight 1.000
+token the        -> the        with weight 0.995
+token house      -> the        with weight 1.000
+BatchItem : 1, layer:2, head:1 -> min:6.354576180456206e-05, max0.9859203696250916, entropy :0.21108467876911163
+token he         -> the        with weight 0.906
+token went       -> the        with weight 0.972
+token to         -> the        with weight 0.938
+token the        -> the        with weight 0.970
+token house      -> the        with weight 0.986
+BatchItem : 1, layer:2, head:2 -> min:3.1740913982503116e-05, max0.9933847784996033, entropy :0.24603509902954102
+token he         -> the        with weight 0.993
+token went       -> the        with weight 0.992
+token to         -> the        with weight 0.956
+token the        -> the        with weight 0.774
+token house      -> the        with weight 0.983
+BatchItem : 1, layer:2, head:3 -> min:0.00030598140438087285, max0.9885772466659546, entropy :0.4398960471153259
+token he         -> the        with weight 0.982
+token went       -> the        with weight 0.928
+token to         -> the        with weight 0.825
+token the        -> the        with weight 0.693
+token house      -> the        with weight 0.989
+BatchItem : 1, layer:2, head:4 -> min:7.344373443629593e-05, max0.9883689880371094, entropy :0.23581810295581818
+token he         -> the        with weight 0.921
+token went       -> the        with weight 0.955
+token to         -> the        with weight 0.987
+token the        -> the        with weight 0.864
+token house      -> the        with weight 0.988
+BatchItem : 1, layer:2, head:5 -> min:2.8524029858090216e-06, max0.9842547178268433, entropy :0.30112168192863464
+token he         -> the        with weight 0.959
+token went       -> the        with weight 0.984
+token to         -> the        with weight 0.960
+token the        -> the        with weight 0.677
+token house      -> the        with weight 0.975
+BatchItem : 1, layer:2, head:6 -> min:0.00011019988596672192, max0.9982123374938965, entropy :0.16645680367946625
+token he         -> the        with weight 0.977
+token went       -> the        with weight 0.983
+token to         -> the        with weight 0.860
+token the        -> the        with weight 0.990
+token house      -> the        with weight 0.998
+BatchItem : 1, layer:2, head:7 -> min:1.2902249046931047e-08, max0.9999949932098389, entropy :0.008524022996425629
+token he         -> the        with weight 1.000
+token went       -> the        with weight 1.000
+token to         -> the        with weight 0.998
+token the        -> the        with weight 0.997
+token house      -> the        with weight 1.000
+BatchItem : 1, layer:3, head:0 -> min:0.005847063381224871, max0.9226415157318115, entropy :0.7652884125709534
+token he         -> the        with weight 0.804
+token went       -> the        with weight 0.731
+token to         -> the        with weight 0.923
+token the        -> the        with weight 0.727
+token house      -> the        with weight 0.780
+BatchItem : 1, layer:3, head:1 -> min:0.0007998416549526155, max0.9729329943656921, entropy :0.7099777460098267
+token he         -> the        with weight 0.973
+token went       -> the        with weight 0.954
+token to         -> he         with weight 0.461
+token the        -> the        with weight 0.413
+token house      -> the        with weight 0.725
+BatchItem : 1, layer:3, head:2 -> min:0.01737750507891178, max0.821330189704895, entropy :0.8438867330551147
+token he         -> the        with weight 0.751
+token went       -> the        with weight 0.821
+token to         -> the        with weight 0.772
+token the        -> the        with weight 0.680
+token house      -> the        with weight 0.812
+BatchItem : 1, layer:3, head:3 -> min:0.011198751628398895, max0.8910390734672546, entropy :1.0221914052963257
+token he         -> the        with weight 0.891
+token went       -> the        with weight 0.516
+token to         -> he         with weight 0.321
+token the        -> the        with weight 0.547
+token house      -> the        with weight 0.862
+BatchItem : 1, layer:3, head:4 -> min:0.027347197756171227, max0.8504154086112976, entropy :1.0548609495162964
+token he         -> the        with weight 0.850
+token went       -> the        with weight 0.426
+token to         -> the        with weight 0.770
+token the        -> the        with weight 0.713
+token house      -> the        with weight 0.498
+BatchItem : 1, layer:3, head:5 -> min:0.055892713367938995, max0.6700667142868042, entropy :1.3136756420135498
+token he         -> the        with weight 0.298
+token went       -> the        with weight 0.466
+token to         -> the        with weight 0.622
+token the        -> the        with weight 0.434
+token house      -> the        with weight 0.670
+BatchItem : 1, layer:3, head:6 -> min:0.05066362023353577, max0.5694105625152588, entropy :1.4383608102798462
+token he         -> the        with weight 0.309
+token went       -> he         with weight 0.261
+token to         -> went       with weight 0.304
+token the        -> the        with weight 0.569
+token house      -> the        with weight 0.568
+BatchItem : 1, layer:3, head:7 -> min:0.002661046339198947, max0.9553163647651672, entropy :0.6979889869689941
+token he         -> the        with weight 0.712
+token went       -> the        with weight 0.799
+token to         -> the        with weight 0.955
+token the        -> the        with weight 0.751
+token house      -> the        with weight 0.794
+BatchItem : 1, layer:4, head:0 -> min:0.058702390640974045, max0.38926899433135986, entropy :1.5396051406860352
+token he         -> he         with weight 0.389
+token went       -> the        with weight 0.235
+token to         -> went       with weight 0.298
+token the        -> he         with weight 0.287
+token house      -> house      with weight 0.232
+BatchItem : 1, layer:4, head:1 -> min:0.00011841891682706773, max0.9692754745483398, entropy :0.7711715698242188
+token he         -> he         with weight 0.624
+token went       -> he         with weight 0.530
+token to         -> went       with weight 0.969
+token the        -> to         with weight 0.636
+token house      -> the        with weight 0.671
+BatchItem : 1, layer:4, head:2 -> min:0.0005245673819445074, max0.4328746497631073, entropy :1.328397512435913
+token he         -> he         with weight 0.433
+token went       -> he         with weight 0.430
+token to         -> he         with weight 0.374
+token the        -> he         with weight 0.360
+token house      -> he         with weight 0.363
+BatchItem : 1, layer:4, head:3 -> min:2.74614997408662e-09, max0.9997629523277283, entropy :0.18990281224250793
+token he         -> went       with weight 0.937
+token went       -> to         with weight 0.888
+token to         -> the        with weight 0.945
+token the        -> house      with weight 1.000
+token house      -> house      with weight 0.980
+BatchItem : 1, layer:4, head:4 -> min:0.057915281504392624, max0.49656549096107483, entropy :1.4569920301437378
+token he         -> the        with weight 0.278
+token went       -> went       with weight 0.341
+token to         -> went       with weight 0.483
+token the        -> went       with weight 0.497
+token house      -> went       with weight 0.352
+BatchItem : 1, layer:4, head:5 -> min:0.02181544527411461, max0.5143117308616638, entropy :1.4514877796173096
+token he         -> went       with weight 0.514
+token went       -> went       with weight 0.368
+token to         -> the        with weight 0.313
+token the        -> went       with weight 0.292
+token house      -> the        with weight 0.318
+BatchItem : 1, layer:4, head:6 -> min:0.006791571155190468, max0.8752085566520691, entropy :1.0122206211090088
+token he         -> he         with weight 0.363
+token went       -> the        with weight 0.305
+token to         -> house      with weight 0.788
+token the        -> house      with weight 0.875
+token house      -> house      with weight 0.655
+BatchItem : 1, layer:4, head:7 -> min:0.04974893853068352, max0.7402974963188171, entropy :1.3352272510528564
+token he         -> the        with weight 0.686
+token went       -> went       with weight 0.262
+token to         -> the        with weight 0.258
+token the        -> the        with weight 0.333
+token house      -> house      with weight 0.740
+BatchItem : 1, layer:5, head:0 -> min:0.00190073496196419, max0.8919344544410706, entropy :0.8437213897705078
+token he         -> went       with weight 0.522
+token went       -> went       with weight 0.436
+token to         -> house      with weight 0.872
+token the        -> house      with weight 0.892
+token house      -> house      with weight 0.884
+BatchItem : 1, layer:5, head:1 -> min:0.003104620147496462, max0.9100210070610046, entropy :0.9762740135192871
+token he         -> he         with weight 0.504
+token went       -> went       with weight 0.910
+token to         -> to         with weight 0.340
+token the        -> house      with weight 0.533
+token house      -> house      with weight 0.853
+BatchItem : 1, layer:5, head:2 -> min:0.0168622899800539, max0.6009597182273865, entropy :1.1831833124160767
+token he         -> he         with weight 0.403
+token went       -> he         with weight 0.546
+token to         -> went       with weight 0.556
+token the        -> went       with weight 0.601
+token house      -> the        with weight 0.414
+BatchItem : 1, layer:5, head:3 -> min:0.00016640069952700287, max0.9730210304260254, entropy :0.8100723028182983
+token he         -> he         with weight 0.834
+token went       -> went       with weight 0.680
+token to         -> to         with weight 0.414
+token the        -> house      with weight 0.578
+token house      -> house      with weight 0.973
+BatchItem : 1, layer:5, head:4 -> min:0.029798541218042374, max0.7437054514884949, entropy :1.1726436614990234
+token he         -> he         with weight 0.744
+token went       -> went       with weight 0.710
+token to         -> to         with weight 0.443
+token the        -> he         with weight 0.329
+token house      -> house      with weight 0.645
+BatchItem : 1, layer:5, head:5 -> min:0.029401950538158417, max0.6230281591415405, entropy :1.3698551654815674
+token he         -> went       with weight 0.623
+token went       -> went       with weight 0.359
+token to         -> the        with weight 0.390
+token the        -> the        with weight 0.356
+token house      -> the        with weight 0.581
+BatchItem : 1, layer:5, head:6 -> min:8.606799610788585e-07, max0.9984809756278992, entropy :0.19423611462116241
+token he         -> went       with weight 0.966
+token went       -> to         with weight 0.896
+token to         -> the        with weight 0.891
+token the        -> house      with weight 0.997
+token house      -> house      with weight 0.998
+BatchItem : 1, layer:5, head:7 -> min:1.2515949388003378e-10, max0.9757872819900513, entropy :0.28452029824256897
+token he         -> he         with weight 0.954
+token went       -> he         with weight 0.953
+token to         -> went       with weight 0.780
+token the        -> to         with weight 0.976
+token house      -> the        with weight 0.902
+BatchItem : 2, layer:0, head:0 -> min:0.1069333553314209, max0.31686311960220337, entropy :1.5755442380905151
+token it         -> a          with weight 0.250
+token was        -> good       with weight 0.261
+token a          -> it         with weight 0.317
+token good       -> a          with weight 0.253
+token day        -> day        with weight 0.261
+BatchItem : 2, layer:0, head:1 -> min:0.07555564492940903, max0.39874905347824097, entropy :1.5448631048202515
+token it         -> was        with weight 0.259
+token was        -> it         with weight 0.251
+token a          -> a          with weight 0.243
+token good       -> day        with weight 0.399
+token day        -> was        with weight 0.296
+BatchItem : 2, layer:0, head:2 -> min:0.09053367376327515, max0.3967796862125397, entropy :1.5588881969451904
+token it         -> day        with weight 0.242
+token was        -> day        with weight 0.312
+token a          -> good       with weight 0.227
+token good       -> was        with weight 0.397
+token day        -> good       with weight 0.312
+BatchItem : 2, layer:0, head:3 -> min:0.13370488584041595, max0.26370543241500854, entropy :1.5951697826385498
+token it         -> was        with weight 0.227
+token was        -> it         with weight 0.230
+token a          -> a          with weight 0.262
+token good       -> good       with weight 0.264
+token day        -> day        with weight 0.243
+BatchItem : 2, layer:0, head:4 -> min:0.11645765602588654, max0.3477710485458374, entropy :1.5700786113739014
+token it         -> good       with weight 0.276
+token was        -> it         with weight 0.278
+token a          -> a          with weight 0.249
+token good       -> was        with weight 0.253
+token day        -> a          with weight 0.348
+BatchItem : 2, layer:0, head:5 -> min:0.12877419590950012, max0.3092193603515625, entropy :1.5787547826766968
+token it         -> good       with weight 0.258
+token was        -> day        with weight 0.309
+token a          -> day        with weight 0.296
+token good       -> day        with weight 0.308
+token day        -> day        with weight 0.250
+BatchItem : 2, layer:0, head:6 -> min:0.1237434670329094, max0.35633471608161926, entropy :1.5785596370697021
+token it         -> a          with weight 0.272
+token was        -> good       with weight 0.242
+token a          -> day        with weight 0.254
+token good       -> was        with weight 0.356
+token day        -> a          with weight 0.277
+BatchItem : 2, layer:0, head:7 -> min:0.05732519179582596, max0.3101241886615753, entropy :1.5527844429016113
+token it         -> day        with weight 0.292
+token was        -> day        with weight 0.227
+token a          -> day        with weight 0.231
+token good       -> was        with weight 0.310
+token day        -> was        with weight 0.282
+BatchItem : 2, layer:1, head:0 -> min:0.024848608300089836, max0.5283963084220886, entropy :1.3847672939300537
+token it         -> was        with weight 0.323
+token was        -> it         with weight 0.528
+token a          -> a          with weight 0.352
+token good       -> a          with weight 0.487
+token day        -> it         with weight 0.357
+BatchItem : 2, layer:1, head:1 -> min:0.033939313143491745, max0.5592016577720642, entropy :1.365483045578003
+token it         -> a          with weight 0.362
+token was        -> a          with weight 0.426
+token a          -> a          with weight 0.452
+token good       -> a          with weight 0.538
+token day        -> a          with weight 0.559
+BatchItem : 2, layer:1, head:2 -> min:0.02066703699529171, max0.5002131462097168, entropy :1.3326042890548706
+token it         -> was        with weight 0.398
+token was        -> a          with weight 0.390
+token a          -> a          with weight 0.500
+token good       -> a          with weight 0.489
+token day        -> a          with weight 0.244
+BatchItem : 2, layer:1, head:3 -> min:1.3509541531675495e-05, max0.9823974370956421, entropy :0.5339070558547974
+token it         -> it         with weight 0.791
+token was        -> it         with weight 0.833
+token a          -> was        with weight 0.640
+token good       -> a          with weight 0.982
+token day        -> good       with weight 0.822
+BatchItem : 2, layer:1, head:4 -> min:0.04522594064474106, max0.4358603358268738, entropy :1.4045178890228271
+token it         -> a          with weight 0.360
+token was        -> was        with weight 0.436
+token a          -> a          with weight 0.382
+token good       -> a          with weight 0.307
+token day        -> a          with weight 0.360
+BatchItem : 2, layer:1, head:5 -> min:0.05241120979189873, max0.36043688654899597, entropy :1.4733474254608154
+token it         -> was        with weight 0.299
+token was        -> it         with weight 0.287
+token a          -> was        with weight 0.324
+token good       -> a          with weight 0.360
+token day        -> a          with weight 0.359
+BatchItem : 2, layer:1, head:6 -> min:0.027370044961571693, max0.5177266001701355, entropy :1.3712581396102905
+token it         -> a          with weight 0.364
+token was        -> a          with weight 0.420
+token a          -> a          with weight 0.421
+token good       -> a          with weight 0.518
+token day        -> a          with weight 0.342
+BatchItem : 2, layer:1, head:7 -> min:0.06074882298707962, max0.5009887218475342, entropy :1.4211976528167725
+token it         -> a          with weight 0.324
+token was        -> a          with weight 0.402
+token a          -> a          with weight 0.345
+token good       -> a          with weight 0.501
+token day        -> a          with weight 0.469
+BatchItem : 2, layer:2, head:0 -> min:6.533257419505389e-06, max0.9923253059387207, entropy :0.1426468789577484
+token it         -> was        with weight 0.972
+token was        -> was        with weight 0.980
+token a          -> was        with weight 0.992
+token good       -> was        with weight 0.980
+token day        -> was        with weight 0.940
+BatchItem : 2, layer:2, head:1 -> min:4.561765672406182e-05, max0.9880374670028687, entropy :0.2695692777633667
+token it         -> was        with weight 0.920
+token was        -> was        with weight 0.818
+token a          -> was        with weight 0.985
+token good       -> was        with weight 0.963
+token day        -> was        with weight 0.988
+BatchItem : 2, layer:2, head:2 -> min:7.69759135437198e-05, max0.9822730422019958, entropy :0.2855358123779297
+token it         -> was        with weight 0.982
+token was        -> was        with weight 0.954
+token a          -> was        with weight 0.885
+token good       -> was        with weight 0.865
+token day        -> was        with weight 0.964
+BatchItem : 2, layer:2, head:3 -> min:7.549571137133171e-07, max0.7347837090492249, entropy :0.837836742401123
+token it         -> it         with weight 0.443
+token was        -> was        with weight 0.478
+token a          -> it         with weight 0.502
+token good       -> it         with weight 0.618
+token day        -> it         with weight 0.735
+BatchItem : 2, layer:2, head:4 -> min:0.002491975435987115, max0.7110488414764404, entropy :0.9511322975158691
+token it         -> it         with weight 0.711
+token was        -> it         with weight 0.620
+token a          -> it         with weight 0.591
+token good       -> it         with weight 0.708
+token day        -> it         with weight 0.668
+BatchItem : 2, layer:2, head:5 -> min:4.343975433585001e-06, max0.8459940552711487, entropy :0.7090158462524414
+token it         -> was        with weight 0.611
+token was        -> was        with weight 0.725
+token a          -> was        with weight 0.629
+token good       -> was        with weight 0.749
+token day        -> was        with weight 0.846
+BatchItem : 2, layer:2, head:6 -> min:6.571032281499356e-05, max0.7148340940475464, entropy :0.9109460115432739
+token it         -> it         with weight 0.559
+token was        -> it         with weight 0.715
+token a          -> was        with weight 0.503
+token good       -> was        with weight 0.658
+token day        -> was        with weight 0.471
+BatchItem : 2, layer:2, head:7 -> min:9.136127482634038e-05, max0.9645093679428101, entropy :0.31366604566574097
+token it         -> was        with weight 0.907
+token was        -> was        with weight 0.878
+token a          -> was        with weight 0.905
+token good       -> was        with weight 0.931
+token day        -> was        with weight 0.965
+BatchItem : 2, layer:3, head:0 -> min:0.07704830169677734, max0.3319566249847412, entropy :1.5482817888259888
+token it         -> a          with weight 0.332
+token was        -> a          with weight 0.279
+token a          -> a          with weight 0.322
+token good       -> a          with weight 0.326
+token day        -> a          with weight 0.284
+BatchItem : 2, layer:3, head:1 -> min:0.01129427645355463, max0.6729742288589478, entropy :1.105960488319397
+token it         -> it         with weight 0.551
+token was        -> it         with weight 0.542
+token a          -> it         with weight 0.673
+token good       -> it         with weight 0.463
+token day        -> it         with weight 0.436
+BatchItem : 2, layer:3, head:2 -> min:0.01414219755679369, max0.3675686717033386, entropy :1.517311453819275
+token it         -> day        with weight 0.345
+token was        -> day        with weight 0.265
+token a          -> it         with weight 0.313
+token good       -> a          with weight 0.368
+token day        -> it         with weight 0.276
+BatchItem : 2, layer:3, head:3 -> min:0.016139278188347816, max0.8280666470527649, entropy :1.2335268259048462
+token it         -> day        with weight 0.327
+token was        -> it         with weight 0.828
+token a          -> it         with weight 0.581
+token good       -> was        with weight 0.385
+token day        -> a          with weight 0.302
+BatchItem : 2, layer:3, head:4 -> min:0.11902540177106857, max0.3102879226207733, entropy :1.5828603506088257
+token it         -> a          with weight 0.310
+token was        -> day        with weight 0.249
+token a          -> was        with weight 0.270
+token good       -> it         with weight 0.248
+token day        -> was        with weight 0.307
+BatchItem : 2, layer:3, head:5 -> min:0.03985465690493584, max0.771689772605896, entropy :1.324644684791565
+token it         -> a          with weight 0.259
+token was        -> was        with weight 0.772
+token a          -> a          with weight 0.495
+token good       -> a          with weight 0.344
+token day        -> day        with weight 0.474
+BatchItem : 2, layer:3, head:6 -> min:0.07793828845024109, max0.35603490471839905, entropy :1.526863694190979
+token it         -> good       with weight 0.338
+token was        -> good       with weight 0.356
+token a          -> was        with weight 0.293
+token good       -> was        with weight 0.256
+token day        -> was        with weight 0.318
+BatchItem : 2, layer:3, head:7 -> min:0.013153377920389175, max0.5463579297065735, entropy :1.3501707315444946
+token it         -> was        with weight 0.371
+token was        -> was        with weight 0.385
+token a          -> a          with weight 0.546
+token good       -> was        with weight 0.341
+token day        -> it         with weight 0.388
+BatchItem : 2, layer:4, head:0 -> min:0.060162901878356934, max0.45984935760498047, entropy :1.4645277261734009
+token it         -> day        with weight 0.460
+token was        -> day        with weight 0.398
+token a          -> day        with weight 0.351
+token good       -> good       with weight 0.304
+token day        -> day        with weight 0.320
+BatchItem : 2, layer:4, head:1 -> min:0.0043720668181777, max0.7155145406723022, entropy :1.0315245389938354
+token it         -> it         with weight 0.373
+token was        -> it         with weight 0.716
+token a          -> was        with weight 0.675
+token good       -> a          with weight 0.679
+token day        -> good       with weight 0.524
+BatchItem : 2, layer:4, head:2 -> min:0.0470828153192997, max0.5380406975746155, entropy :1.4483766555786133
+token it         -> it         with weight 0.462
+token was        -> it         with weight 0.538
+token a          -> it         with weight 0.406
+token good       -> it         with weight 0.346
+token day        -> it         with weight 0.298
+BatchItem : 2, layer:4, head:3 -> min:2.6186928181459734e-08, max0.9963867664337158, entropy :0.15009824931621552
+token it         -> was        with weight 0.996
+token was        -> a          with weight 0.980
+token a          -> good       with weight 0.902
+token good       -> day        with weight 0.983
+token day        -> day        with weight 0.972
+BatchItem : 2, layer:4, head:4 -> min:0.06329852342605591, max0.4586423933506012, entropy :1.4157440662384033
+token it         -> was        with weight 0.417
+token was        -> was        with weight 0.440
+token a          -> was        with weight 0.459
+token good       -> was        with weight 0.443
+token day        -> day        with weight 0.301
+BatchItem : 2, layer:4, head:5 -> min:0.04790322482585907, max0.4699544608592987, entropy :1.500469446182251
+token it         -> was        with weight 0.331
+token was        -> day        with weight 0.292
+token a          -> day        with weight 0.339
+token good       -> it         with weight 0.314
+token day        -> it         with weight 0.470
+BatchItem : 2, layer:4, head:6 -> min:0.01107886154204607, max0.8512111306190491, entropy :0.9736383557319641
+token it         -> was        with weight 0.499
+token was        -> day        with weight 0.364
+token a          -> day        with weight 0.831
+token good       -> day        with weight 0.851
+token day        -> day        with weight 0.708
+BatchItem : 2, layer:4, head:7 -> min:0.07765770703554153, max0.5856157541275024, entropy :1.5026788711547852
+token it         -> a          with weight 0.240
+token was        -> was        with weight 0.271
+token a          -> was        with weight 0.321
+token good       -> good       with weight 0.270
+token day        -> day        with weight 0.586
+BatchItem : 2, layer:5, head:0 -> min:0.0011601606383919716, max0.7511422038078308, entropy :1.0359774827957153
+token it         -> was        with weight 0.394
+token was        -> day        with weight 0.406
+token a          -> day        with weight 0.751
+token good       -> day        with weight 0.745
+token day        -> day        with weight 0.636
+BatchItem : 2, layer:5, head:1 -> min:0.001355398795567453, max0.8145813941955566, entropy :0.9259463548660278
+token it         -> it         with weight 0.479
+token was        -> was        with weight 0.728
+token a          -> a          with weight 0.759
+token good       -> good       with weight 0.815
+token day        -> good       with weight 0.502
+BatchItem : 2, layer:5, head:2 -> min:0.004820205736905336, max0.5875095129013062, entropy :1.1644904613494873
+token it         -> it         with weight 0.519
+token was        -> it         with weight 0.588
+token a          -> it         with weight 0.474
+token good       -> a          with weight 0.540
+token day        -> a          with weight 0.485
+BatchItem : 2, layer:5, head:3 -> min:6.229678547242656e-05, max0.6445476412773132, entropy :0.9899622797966003
+token it         -> it         with weight 0.478
+token was        -> was        with weight 0.622
+token a          -> a          with weight 0.389
+token good       -> good       with weight 0.539
+token day        -> day        with weight 0.645
+BatchItem : 2, layer:5, head:4 -> min:0.0020189406350255013, max0.9072995185852051, entropy :0.7861024737358093
+token it         -> it         with weight 0.907
+token was        -> was        with weight 0.634
+token a          -> a          with weight 0.752
+token good       -> good       with weight 0.817
+token day        -> day        with weight 0.561
+BatchItem : 2, layer:5, head:5 -> min:0.039967674762010574, max0.6718220710754395, entropy :1.3275656700134277
+token it         -> was        with weight 0.518
+token was        -> was        with weight 0.672
+token a          -> was        with weight 0.530
+token good       -> good       with weight 0.375
+token day        -> good       with weight 0.433
+BatchItem : 2, layer:5, head:6 -> min:9.425336067181433e-09, max0.9973310232162476, entropy :0.2574160695075989
+token it         -> was        with weight 0.925
+token was        -> a          with weight 0.943
+token a          -> good       with weight 0.791
+token good       -> day        with weight 0.997
+token day        -> day        with weight 0.980
+BatchItem : 2, layer:5, head:7 -> min:5.192791974195643e-08, max0.998719334602356, entropy :0.435067743062973
+token it         -> it         with weight 0.783
+token was        -> it         with weight 0.682
+token a          -> was        with weight 0.931
+token good       -> a          with weight 0.999
+token day        -> good       with weight 0.717
+BatchItem : 3, layer:0, head:0 -> min:0.06950591504573822, max0.45454227924346924, entropy :1.7178198099136353
+token the        -> ##d        with weight 0.235
+token dog        -> cat        with weight 0.455
+token chase      -> cat        with weight 0.304
+token ##d        -> chase      with weight 0.209
+token the        -> ##d        with weight 0.208
+token cat        -> ##d        with weight 0.231
+BatchItem : 3, layer:0, head:1 -> min:0.05181804671883583, max0.39987361431121826, entropy :1.723230004310608
+token the        -> cat        with weight 0.317
+token dog        -> the        with weight 0.207
+token chase      -> the        with weight 0.233
+token ##d        -> dog        with weight 0.228
+token the        -> ##d        with weight 0.207
+token cat        -> dog        with weight 0.400
+BatchItem : 3, layer:0, head:2 -> min:0.06019865348935127, max0.3481326103210449, entropy :1.7173925638198853
+token the        -> cat        with weight 0.299
+token dog        -> chase      with weight 0.348
+token chase      -> ##d        with weight 0.305
+token ##d        -> chase      with weight 0.285
+token the        -> cat        with weight 0.238
+token cat        -> the        with weight 0.246
+BatchItem : 3, layer:0, head:3 -> min:0.09287147223949432, max0.26429128646850586, entropy :1.7692753076553345
+token the        -> cat        with weight 0.219
+token dog        -> ##d        with weight 0.241
+token chase      -> the        with weight 0.183
+token ##d        -> dog        with weight 0.215
+token the        -> cat        with weight 0.195
+token cat        -> chase      with weight 0.264
+BatchItem : 3, layer:0, head:4 -> min:0.08375366777181625, max0.2534952759742737, entropy :1.7613734006881714
+token the        -> chase      with weight 0.190
+token dog        -> cat        with weight 0.239
+token chase      -> the        with weight 0.228
+token ##d        -> the        with weight 0.206
+token the        -> the        with weight 0.194
+token cat        -> cat        with weight 0.253
+BatchItem : 3, layer:0, head:5 -> min:0.08480463922023773, max0.3193812370300293, entropy :1.7548261880874634
+token the        -> cat        with weight 0.239
+token dog        -> cat        with weight 0.276
+token chase      -> cat        with weight 0.224
+token ##d        -> dog        with weight 0.319
+token the        -> cat        with weight 0.230
+token cat        -> chase      with weight 0.206
+BatchItem : 3, layer:0, head:6 -> min:0.0826314315199852, max0.3201492130756378, entropy :1.7331751585006714
+token the        -> cat        with weight 0.246
+token dog        -> chase      with weight 0.215
+token chase      -> chase      with weight 0.277
+token ##d        -> chase      with weight 0.320
+token the        -> ##d        with weight 0.246
+token cat        -> the        with weight 0.267
+BatchItem : 3, layer:0, head:7 -> min:0.07276562601327896, max0.2942669093608856, entropy :1.7346915006637573
+token the        -> cat        with weight 0.294
+token dog        -> chase      with weight 0.245
+token chase      -> the        with weight 0.237
+token ##d        -> chase      with weight 0.210
+token the        -> chase      with weight 0.267
+token cat        -> chase      with weight 0.241
+BatchItem : 3, layer:1, head:0 -> min:0.011378285475075245, max0.43442830443382263, entropy :1.2918527126312256
+token the        -> the        with weight 0.374
+token dog        -> the        with weight 0.364
+token chase      -> the        with weight 0.415
+token ##d        -> the        with weight 0.421
+token the        -> the        with weight 0.434
+token cat        -> the        with weight 0.419
+BatchItem : 3, layer:1, head:1 -> min:0.01861017569899559, max0.43636780977249146, entropy :1.280074954032898
+token the        -> the        with weight 0.420
+token dog        -> the        with weight 0.410
+token chase      -> the        with weight 0.405
+token ##d        -> the        with weight 0.421
+token the        -> the        with weight 0.436
+token cat        -> the        with weight 0.423
+BatchItem : 3, layer:1, head:2 -> min:0.004601586144417524, max0.4789137840270996, entropy :1.257474660873413
+token the        -> the        with weight 0.417
+token dog        -> the        with weight 0.399
+token chase      -> the        with weight 0.362
+token ##d        -> the        with weight 0.479
+token the        -> the        with weight 0.403
+token cat        -> the        with weight 0.470
+BatchItem : 3, layer:1, head:3 -> min:1.8252287645736942e-06, max0.9950587749481201, entropy :0.3968698978424072
+token the        -> the        with weight 0.797
+token dog        -> the        with weight 0.986
+token chase      -> the        with weight 0.568
+token ##d        -> chase      with weight 0.995
+token the        -> ##d        with weight 0.582
+token cat        -> the        with weight 0.993
+BatchItem : 3, layer:1, head:4 -> min:0.0098454924300313, max0.49244576692581177, entropy :1.3787723779678345
+token the        -> the        with weight 0.373
+token dog        -> the        with weight 0.374
+token chase      -> the        with weight 0.492
+token ##d        -> the        with weight 0.446
+token the        -> the        with weight 0.404
+token cat        -> the        with weight 0.402
+BatchItem : 3, layer:1, head:5 -> min:0.003638665424659848, max0.47971975803375244, entropy :1.1921824216842651
+token the        -> the        with weight 0.354
+token dog        -> the        with weight 0.427
+token chase      -> the        with weight 0.462
+token ##d        -> the        with weight 0.468
+token the        -> the        with weight 0.375
+token cat        -> the        with weight 0.480
+BatchItem : 3, layer:1, head:6 -> min:0.01243884488940239, max0.44692716002464294, entropy :1.2263258695602417
+token the        -> the        with weight 0.425
+token dog        -> the        with weight 0.447
+token chase      -> the        with weight 0.415
+token ##d        -> the        with weight 0.446
+token the        -> the        with weight 0.433
+token cat        -> the        with weight 0.406
+BatchItem : 3, layer:1, head:7 -> min:0.029077479615807533, max0.4049328863620758, entropy :1.41116464138031
+token the        -> the        with weight 0.396
+token dog        -> the        with weight 0.359
+token chase      -> the        with weight 0.405
+token ##d        -> the        with weight 0.385
+token the        -> the        with weight 0.394
+token cat        -> the        with weight 0.311
+BatchItem : 3, layer:2, head:0 -> min:2.8106533136451617e-05, max0.9534932971000671, entropy :0.5818938612937927
+token the        -> the        with weight 0.831
+token dog        -> the        with weight 0.953
+token chase      -> the        with weight 0.692
+token ##d        -> the        with weight 0.816
+token the        -> the        with weight 0.828
+token cat        -> the        with weight 0.759
+BatchItem : 3, layer:2, head:1 -> min:1.1315852134430315e-05, max0.9935408234596252, entropy :0.19168685376644135
+token the        -> the        with weight 0.878
+token dog        -> the        with weight 0.984
+token chase      -> the        with weight 0.994
+token ##d        -> the        with weight 0.988
+token the        -> the        with weight 0.981
+token cat        -> the        with weight 0.946
+BatchItem : 3, layer:2, head:2 -> min:0.002482805633917451, max0.8940696716308594, entropy :1.1344187259674072
+token the        -> the        with weight 0.616
+token dog        -> the        with weight 0.454
+token chase      -> the        with weight 0.420
+token ##d        -> the        with weight 0.491
+token the        -> the        with weight 0.718
+token cat        -> the        with weight 0.894
+BatchItem : 3, layer:2, head:3 -> min:4.787215857504634e-06, max0.9665319323539734, entropy :0.5576124787330627
+token the        -> the        with weight 0.890
+token dog        -> the        with weight 0.785
+token chase      -> the        with weight 0.677
+token ##d        -> the        with weight 0.749
+token the        -> the        with weight 0.852
+token cat        -> the        with weight 0.967
+BatchItem : 3, layer:2, head:4 -> min:1.839923243096564e-05, max0.9153205752372742, entropy :0.6496954560279846
+token the        -> the        with weight 0.902
+token dog        -> the        with weight 0.915
+token chase      -> the        with weight 0.536
+token ##d        -> the        with weight 0.728
+token the        -> the        with weight 0.802
+token cat        -> the        with weight 0.868
+BatchItem : 3, layer:2, head:5 -> min:1.5076053387019783e-05, max0.7090305685997009, entropy :0.9388542771339417
+token the        -> ##d        with weight 0.479
+token dog        -> ##d        with weight 0.489
+token chase      -> the        with weight 0.679
+token ##d        -> the        with weight 0.709
+token the        -> the        with weight 0.421
+token cat        -> the        with weight 0.662
+BatchItem : 3, layer:2, head:6 -> min:0.00010361694876337424, max0.6915892958641052, entropy :1.0352908372879028
+token the        -> the        with weight 0.428
+token dog        -> ##d        with weight 0.455
+token chase      -> ##d        with weight 0.411
+token ##d        -> the        with weight 0.467
+token the        -> the        with weight 0.692
+token cat        -> the        with weight 0.541
+BatchItem : 3, layer:2, head:7 -> min:1.2496947476847708e-08, max0.9982020854949951, entropy :0.05892343446612358
+token the        -> the        with weight 0.983
+token dog        -> the        with weight 0.995
+token chase      -> the        with weight 0.969
+token ##d        -> the        with weight 0.998
+token the        -> the        with weight 0.995
+token cat        -> the        with weight 0.998
+BatchItem : 3, layer:3, head:0 -> min:0.004432176239788532, max0.5131879448890686, entropy :1.349348545074463
+token the        -> the        with weight 0.470
+token dog        -> the        with weight 0.235
+token chase      -> ##d        with weight 0.214
+token ##d        -> the        with weight 0.513
+token the        -> the        with weight 0.485
+token cat        -> the        with weight 0.496
+BatchItem : 3, layer:3, head:1 -> min:0.003211093135178089, max0.6151601672172546, entropy :1.2056089639663696
+token the        -> the        with weight 0.491
+token dog        -> the        with weight 0.408
+token chase      -> the        with weight 0.404
+token ##d        -> the        with weight 0.615
+token the        -> the        with weight 0.491
+token cat        -> the        with weight 0.524
+BatchItem : 3, layer:3, head:2 -> min:0.005433252546936274, max0.5012754201889038, entropy :1.3830465078353882
+token the        -> the        with weight 0.414
+token dog        -> the        with weight 0.367
+token chase      -> dog        with weight 0.252
+token ##d        -> the        with weight 0.461
+token the        -> the        with weight 0.413
+token cat        -> the        with weight 0.501
+BatchItem : 3, layer:3, head:3 -> min:0.01573871448636055, max0.47463661432266235, entropy :1.4254390001296997
+token the        -> the        with weight 0.463
+token dog        -> the        with weight 0.374
+token chase      -> chase      with weight 0.380
+token ##d        -> chase      with weight 0.475
+token the        -> the        with weight 0.440
+token cat        -> the        with weight 0.389
+BatchItem : 3, layer:3, head:4 -> min:0.02057919092476368, max0.46626877784729004, entropy :1.452630639076233
+token the        -> the        with weight 0.411
+token dog        -> chase      with weight 0.319
+token chase      -> chase      with weight 0.466
+token ##d        -> the        with weight 0.377
+token the        -> the        with weight 0.381
+token cat        -> the        with weight 0.351
+BatchItem : 3, layer:3, head:5 -> min:0.029615385457873344, max0.4126984775066376, entropy :1.600845217704773
+token the        -> the        with weight 0.366
+token dog        -> dog        with weight 0.273
+token chase      -> dog        with weight 0.259
+token ##d        -> the        with weight 0.355
+token the        -> the        with weight 0.208
+token cat        -> the        with weight 0.413
+BatchItem : 3, layer:3, head:6 -> min:0.062239956110715866, max0.3579152822494507, entropy :1.6469173431396484
+token the        -> the        with weight 0.358
+token dog        -> ##d        with weight 0.263
+token chase      -> dog        with weight 0.277
+token ##d        -> cat        with weight 0.218
+token the        -> the        with weight 0.332
+token cat        -> the        with weight 0.317
+BatchItem : 3, layer:3, head:7 -> min:0.005471562966704369, max0.5211413502693176, entropy :1.3373514413833618
+token the        -> the        with weight 0.436
+token dog        -> the        with weight 0.408
+token chase      -> the        with weight 0.521
+token ##d        -> the        with weight 0.504
+token the        -> the        with weight 0.452
+token cat        -> the        with weight 0.278
+BatchItem : 3, layer:4, head:0 -> min:0.05423460155725479, max0.3740207254886627, entropy :1.6960201263427734
+token the        -> dog        with weight 0.231
+token dog        -> ##d        with weight 0.304
+token chase      -> ##d        with weight 0.374
+token ##d        -> the        with weight 0.243
+token the        -> the        with weight 0.244
+token cat        -> the        with weight 0.312
+BatchItem : 3, layer:4, head:1 -> min:0.0002521874848753214, max0.9497422575950623, entropy :0.6466185450553894
+token the        -> the        with weight 0.950
+token dog        -> the        with weight 0.862
+token chase      -> chase      with weight 0.567
+token ##d        -> chase      with weight 0.826
+token the        -> ##d        with weight 0.890
+token cat        -> the        with weight 0.691
+BatchItem : 3, layer:4, head:2 -> min:0.001597440685145557, max0.5556281208992004, entropy :1.181400179862976
+token the        -> ##d        with weight 0.556
+token dog        -> ##d        with weight 0.518
+token chase      -> ##d        with weight 0.511
+token ##d        -> ##d        with weight 0.499
+token the        -> ##d        with weight 0.495
+token cat        -> ##d        with weight 0.408
+BatchItem : 3, layer:4, head:3 -> min:7.071123547808256e-11, max0.9959008097648621, entropy :0.36706647276878357
+token the        -> dog        with weight 0.928
+token dog        -> chase      with weight 0.995
+token chase      -> ##d        with weight 0.996
+token ##d        -> the        with weight 0.771
+token the        -> cat        with weight 0.941
+token cat        -> dog        with weight 0.573
+BatchItem : 3, layer:4, head:4 -> min:0.023827260360121727, max0.7685086727142334, entropy :1.2947074174880981
+token the        -> ##d        with weight 0.755
+token dog        -> ##d        with weight 0.373
+token chase      -> ##d        with weight 0.538
+token ##d        -> ##d        with weight 0.459
+token the        -> ##d        with weight 0.769
+token cat        -> the        with weight 0.330
+BatchItem : 3, layer:4, head:5 -> min:0.009478404186666012, max0.3700602352619171, entropy :1.6525355577468872
+token the        -> the        with weight 0.202
+token dog        -> the        with weight 0.295
+token chase      -> ##d        with weight 0.283
+token ##d        -> ##d        with weight 0.299
+token the        -> the        with weight 0.191
+token cat        -> the        with weight 0.370
+BatchItem : 3, layer:4, head:6 -> min:0.006180298049002886, max0.5689123272895813, entropy :1.3275818824768066
+token the        -> ##d        with weight 0.483
+token dog        -> ##d        with weight 0.464
+token chase      -> ##d        with weight 0.410
+token ##d        -> the        with weight 0.569
+token the        -> cat        with weight 0.371
+token cat        -> the        with weight 0.260
+BatchItem : 3, layer:4, head:7 -> min:0.037447381764650345, max0.4658131003379822, entropy :1.5660990476608276
+token the        -> the        with weight 0.369
+token dog        -> dog        with weight 0.259
+token chase      -> the        with weight 0.371
+token ##d        -> the        with weight 0.376
+token the        -> the        with weight 0.466
+token cat        -> cat        with weight 0.389
+BatchItem : 3, layer:5, head:0 -> min:0.00038340804167091846, max0.6170995235443115, entropy :1.2516592741012573
+token the        -> dog        with weight 0.566
+token dog        -> ##d        with weight 0.426
+token chase      -> ##d        with weight 0.617
+token ##d        -> ##d        with weight 0.524
+token the        -> cat        with weight 0.408
+token cat        -> cat        with weight 0.356
+BatchItem : 3, layer:5, head:1 -> min:0.0003860756696667522, max0.8154008984565735, entropy :0.932023823261261
+token the        -> dog        with weight 0.601
+token dog        -> dog        with weight 0.792
+token chase      -> chase      with weight 0.709
+token ##d        -> ##d        with weight 0.426
+token the        -> cat        with weight 0.458
+token cat        -> cat        with weight 0.815
+BatchItem : 3, layer:5, head:2 -> min:0.0012999959290027618, max0.7970207333564758, entropy :1.119515299797058
+token the        -> the        with weight 0.603
+token dog        -> the        with weight 0.797
+token chase      -> the        with weight 0.484
+token ##d        -> chase      with weight 0.576
+token the        -> chase      with weight 0.459
+token cat        -> ##d        with weight 0.504
+BatchItem : 3, layer:5, head:3 -> min:0.0003059959562961012, max0.9473094344139099, entropy :0.714723527431488
+token the        -> the        with weight 0.716
+token dog        -> dog        with weight 0.947
+token chase      -> ##d        with weight 0.684
+token ##d        -> ##d        with weight 0.606
+token the        -> ##d        with weight 0.603
+token cat        -> cat        with weight 0.775
+BatchItem : 3, layer:5, head:4 -> min:0.00851440615952015, max0.683309018611908, entropy :1.250576376914978
+token the        -> dog        with weight 0.395
+token dog        -> dog        with weight 0.663
+token chase      -> chase      with weight 0.683
+token ##d        -> ##d        with weight 0.524
+token the        -> the        with weight 0.375
+token cat        -> dog        with weight 0.446
+BatchItem : 3, layer:5, head:5 -> min:0.028559299185872078, max0.4853353500366211, entropy :1.5214437246322632
+token the        -> chase      with weight 0.306
+token dog        -> the        with weight 0.368
+token chase      -> chase      with weight 0.389
+token ##d        -> chase      with weight 0.485
+token the        -> chase      with weight 0.314
+token cat        -> the        with weight 0.378
+BatchItem : 3, layer:5, head:6 -> min:2.528926756895089e-07, max0.9881581664085388, entropy :0.37519004940986633
+token the        -> dog        with weight 0.988
+token dog        -> chase      with weight 0.774
+token chase      -> ##d        with weight 0.969
+token ##d        -> the        with weight 0.847
+token the        -> cat        with weight 0.944
+token cat        -> cat        with weight 0.522
+BatchItem : 3, layer:5, head:7 -> min:4.692509847359361e-08, max0.9981622099876404, entropy :0.1290138214826584
+token the        -> the        with weight 0.998
+token dog        -> the        with weight 0.958
+token chase      -> dog        with weight 0.883
+token ##d        -> chase      with weight 0.986
+token the        -> ##d        with weight 0.988
+token cat        -> the        with weight 0.988
+BatchItem : 4, layer:0, head:0 -> min:0.08786939084529877, max0.31591111421585083, entropy :1.7575753927230835
+token the        -> in         with weight 0.222
+token sun        -> in         with weight 0.255
+token rose       -> the        with weight 0.316
+token in         -> east       with weight 0.225
+token the        -> the        with weight 0.209
+token east       -> east       with weight 0.207
+BatchItem : 4, layer:0, head:1 -> min:0.09181834757328033, max0.31917035579681396, entropy :1.7314668893814087
+token the        -> rose       with weight 0.276
+token sun        -> rose       with weight 0.293
+token rose       -> east       with weight 0.267
+token in         -> rose       with weight 0.319
+token the        -> sun        with weight 0.247
+token east       -> sun        with weight 0.256
+BatchItem : 4, layer:0, head:2 -> min:0.0582398921251297, max0.5290210843086243, entropy :1.6720079183578491
+token the        -> in         with weight 0.234
+token sun        -> sun        with weight 0.317
+token rose       -> sun        with weight 0.529
+token in         -> the        with weight 0.217
+token the        -> in         with weight 0.271
+token east       -> sun        with weight 0.229
+BatchItem : 4, layer:0, head:3 -> min:0.0974731370806694, max0.34124475717544556, entropy :1.7494769096374512
+token the        -> sun        with weight 0.252
+token sun        -> sun        with weight 0.215
+token rose       -> sun        with weight 0.341
+token in         -> east       with weight 0.265
+token the        -> sun        with weight 0.210
+token east       -> the        with weight 0.211
+BatchItem : 4, layer:0, head:4 -> min:0.09362854063510895, max0.37929704785346985, entropy :1.7372698783874512
+token the        -> rose       with weight 0.244
+token sun        -> east       with weight 0.232
+token rose       -> east       with weight 0.379
+token in         -> east       with weight 0.211
+token the        -> rose       with weight 0.219
+token east       -> sun        with weight 0.351
+BatchItem : 4, layer:0, head:5 -> min:0.054629333317279816, max0.25849422812461853, entropy :1.760778784751892
+token the        -> east       with weight 0.185
+token sun        -> the        with weight 0.215
+token rose       -> east       with weight 0.258
+token in         -> east       with weight 0.200
+token the        -> the        with weight 0.205
+token east       -> rose       with weight 0.229
+BatchItem : 4, layer:0, head:6 -> min:0.07391537725925446, max0.29458749294281006, entropy :1.749700665473938
+token the        -> east       with weight 0.295
+token sun        -> the        with weight 0.237
+token rose       -> the        with weight 0.232
+token in         -> east       with weight 0.275
+token the        -> east       with weight 0.218
+token east       -> sun        with weight 0.222
+BatchItem : 4, layer:0, head:7 -> min:0.05125861242413521, max0.36842724680900574, entropy :1.7124042510986328
+token the        -> in         with weight 0.238
+token sun        -> rose       with weight 0.204
+token rose       -> east       with weight 0.345
+token in         -> east       with weight 0.269
+token the        -> in         with weight 0.245
+token east       -> rose       with weight 0.368
+BatchItem : 4, layer:1, head:0 -> min:0.01057751290500164, max0.38647687435150146, entropy :1.579266905784607
+token the        -> the        with weight 0.344
+token sun        -> the        with weight 0.222
+token rose       -> the        with weight 0.220
+token in         -> the        with weight 0.292
+token the        -> the        with weight 0.386
+token east       -> sun        with weight 0.218
+BatchItem : 4, layer:1, head:1 -> min:0.010002941824495792, max0.3532581031322479, entropy :1.4336748123168945
+token the        -> the        with weight 0.309
+token sun        -> the        with weight 0.353
+token rose       -> the        with weight 0.331
+token in         -> the        with weight 0.307
+token the        -> the        with weight 0.306
+token east       -> the        with weight 0.351
+BatchItem : 4, layer:1, head:2 -> min:0.0062334234826266766, max0.36752378940582275, entropy :1.4071431159973145
+token the        -> the        with weight 0.324
+token sun        -> the        with weight 0.326
+token rose       -> the        with weight 0.368
+token in         -> the        with weight 0.345
+token the        -> the        with weight 0.322
+token east       -> the        with weight 0.365
+BatchItem : 4, layer:1, head:3 -> min:4.4429762624531577e-07, max0.9906944036483765, entropy :0.5600952506065369
+token the        -> the        with weight 0.761
+token sun        -> the        with weight 0.967
+token rose       -> sun        with weight 0.712
+token in         -> in         with weight 0.673
+token the        -> in         with weight 0.669
+token east       -> the        with weight 0.991
+BatchItem : 4, layer:1, head:4 -> min:0.026822883635759354, max0.3425615429878235, entropy :1.5815443992614746
+token the        -> the        with weight 0.297
+token sun        -> the        with weight 0.318
+token rose       -> east       with weight 0.275
+token in         -> the        with weight 0.343
+token the        -> the        with weight 0.307
+token east       -> the        with weight 0.339
+BatchItem : 4, layer:1, head:5 -> min:0.003831231966614723, max0.41844096779823303, entropy :1.4071906805038452
+token the        -> the        with weight 0.298
+token sun        -> the        with weight 0.360
+token rose       -> the        with weight 0.418
+token in         -> the        with weight 0.318
+token the        -> the        with weight 0.294
+token east       -> in         with weight 0.328
+BatchItem : 4, layer:1, head:6 -> min:0.004311905242502689, max0.3734646439552307, entropy :1.3120195865631104
+token the        -> the        with weight 0.343
+token sun        -> the        with weight 0.373
+token rose       -> the        with weight 0.349
+token in         -> the        with weight 0.363
+token the        -> the        with weight 0.334
+token east       -> the        with weight 0.356
+BatchItem : 4, layer:1, head:7 -> min:0.01226090919226408, max0.3707498013973236, entropy :1.3938084840774536
+token the        -> the        with weight 0.371
+token sun        -> the        with weight 0.346
+token rose       -> the        with weight 0.367
+token in         -> the        with weight 0.370
+token the        -> the        with weight 0.361
+token east       -> the        with weight 0.340
+BatchItem : 4, layer:2, head:0 -> min:5.732910608458042e-07, max0.6289663314819336, entropy :0.7029142379760742
+token the        -> the        with weight 0.629
+token sun        -> the        with weight 0.570
+token rose       -> the        with weight 0.532
+token in         -> the        with weight 0.590
+token the        -> the        with weight 0.557
+token east       -> the        with weight 0.562
+BatchItem : 4, layer:2, head:1 -> min:7.73882038629381e-06, max0.6069756746292114, entropy :0.7114333510398865
+token the        -> the        with weight 0.520
+token sun        -> the        with weight 0.559
+token rose       -> the        with weight 0.535
+token in         -> the        with weight 0.592
+token the        -> the        with weight 0.505
+token east       -> the        with weight 0.607
+BatchItem : 4, layer:2, head:2 -> min:9.89718500932213e-06, max0.8565860390663147, entropy :0.6169162392616272
+token the        -> the        with weight 0.733
+token sun        -> the        with weight 0.729
+token rose       -> the        with weight 0.578
+token in         -> the        with weight 0.803
+token the        -> the        with weight 0.671
+token east       -> the        with weight 0.857
+BatchItem : 4, layer:2, head:3 -> min:8.325348233029217e-08, max0.9976134300231934, entropy :0.11634717136621475
+token the        -> the        with weight 0.987
+token sun        -> the        with weight 0.964
+token rose       -> the        with weight 0.983
+token in         -> the        with weight 0.928
+token the        -> the        with weight 0.991
+token east       -> the        with weight 0.998
+BatchItem : 4, layer:2, head:4 -> min:4.849386095884256e-05, max0.7535413503646851, entropy :0.8202216029167175
+token the        -> the        with weight 0.657
+token sun        -> the        with weight 0.754
+token rose       -> the        with weight 0.626
+token in         -> the        with weight 0.591
+token the        -> the        with weight 0.478
+token east       -> the        with weight 0.529
+BatchItem : 4, layer:2, head:5 -> min:1.2020781525734492e-07, max0.9642051458358765, entropy :0.4406440556049347
+token the        -> the        with weight 0.739
+token sun        -> the        with weight 0.831
+token rose       -> the        with weight 0.964
+token in         -> the        with weight 0.906
+token the        -> the        with weight 0.727
+token east       -> the        with weight 0.915
+BatchItem : 4, layer:2, head:6 -> min:6.483037395810243e-06, max0.9376605749130249, entropy :0.3760264813899994
+token the        -> the        with weight 0.863
+token sun        -> the        with weight 0.893
+token rose       -> the        with weight 0.938
+token in         -> the        with weight 0.894
+token the        -> the        with weight 0.915
+token east       -> the        with weight 0.921
+BatchItem : 4, layer:2, head:7 -> min:1.6354417819997025e-10, max0.7524579167366028, entropy :0.6278441548347473
+token the        -> the        with weight 0.744
+token sun        -> the        with weight 0.752
+token rose       -> the        with weight 0.665
+token in         -> the        with weight 0.585
+token the        -> the        with weight 0.636
+token east       -> the        with weight 0.644
+BatchItem : 4, layer:3, head:0 -> min:0.009598528034985065, max0.4646708369255066, entropy :1.2668579816818237
+token the        -> the        with weight 0.444
+token sun        -> the        with weight 0.306
+token rose       -> the        with weight 0.465
+token in         -> the        with weight 0.442
+token the        -> the        with weight 0.457
+token east       -> the        with weight 0.399
+BatchItem : 4, layer:3, head:1 -> min:0.007133135572075844, max0.618301272392273, entropy :1.1212412118911743
+token the        -> the        with weight 0.490
+token sun        -> the        with weight 0.618
+token rose       -> the        with weight 0.617
+token in         -> the        with weight 0.407
+token the        -> the        with weight 0.479
+token east       -> the        with weight 0.496
+BatchItem : 4, layer:3, head:2 -> min:0.004121479112654924, max0.4699108600616455, entropy :1.388514518737793
+token the        -> the        with weight 0.364
+token sun        -> the        with weight 0.340
+token rose       -> the        with weight 0.442
+token in         -> in         with weight 0.371
+token the        -> the        with weight 0.396
+token east       -> the        with weight 0.470
+BatchItem : 4, layer:3, head:3 -> min:0.007239853031933308, max0.529780924320221, entropy :1.3713098764419556
+token the        -> the        with weight 0.421
+token sun        -> the        with weight 0.448
+token rose       -> sun        with weight 0.530
+token in         -> sun        with weight 0.378
+token the        -> the        with weight 0.357
+token east       -> the        with weight 0.511
+BatchItem : 4, layer:3, head:4 -> min:0.03602997586131096, max0.41049930453300476, entropy :1.5486482381820679
+token the        -> the        with weight 0.388
+token sun        -> the        with weight 0.276
+token rose       -> the        with weight 0.367
+token in         -> the        with weight 0.306
+token the        -> the        with weight 0.410
+token east       -> the        with weight 0.220
+BatchItem : 4, layer:3, head:5 -> min:0.03547756373882294, max0.4304998517036438, entropy :1.5521899461746216
+token the        -> the        with weight 0.264
+token sun        -> the        with weight 0.430
+token rose       -> the        with weight 0.390
+token in         -> the        with weight 0.315
+token the        -> the        with weight 0.257
+token east       -> the        with weight 0.315
+BatchItem : 4, layer:3, head:6 -> min:0.054439693689346313, max0.3546246886253357, entropy :1.6838411092758179
+token the        -> the        with weight 0.322
+token sun        -> the        with weight 0.271
+token rose       -> the        with weight 0.266
+token in         -> rose       with weight 0.267
+token the        -> the        with weight 0.355
+token east       -> the        with weight 0.194
+BatchItem : 4, layer:3, head:7 -> min:0.0012719918740913272, max0.5556961297988892, entropy :1.228477120399475
+token the        -> the        with weight 0.420
+token sun        -> the        with weight 0.278
+token rose       -> the        with weight 0.443
+token in         -> the        with weight 0.432
+token the        -> the        with weight 0.442
+token east       -> the        with weight 0.556
+BatchItem : 4, layer:4, head:0 -> min:0.04019000008702278, max0.33647459745407104, entropy :1.6670947074890137
+token the        -> east       with weight 0.336
+token sun        -> the        with weight 0.314
+token rose       -> east       with weight 0.298
+token in         -> east       with weight 0.237
+token the        -> east       with weight 0.307
+token east       -> east       with weight 0.288
+BatchItem : 4, layer:4, head:1 -> min:0.0006281922687776387, max0.8831893801689148, entropy :0.8403281569480896
+token the        -> the        with weight 0.883
+token sun        -> the        with weight 0.766
+token rose       -> sun        with weight 0.664
+token in         -> rose       with weight 0.698
+token the        -> in         with weight 0.766
+token east       -> the        with weight 0.673
+BatchItem : 4, layer:4, head:2 -> min:0.003556011011824012, max0.5225260853767395, entropy :1.288548469543457
+token the        -> rose       with weight 0.448
+token sun        -> rose       with weight 0.451
+token rose       -> rose       with weight 0.428
+token in         -> rose       with weight 0.523
+token the        -> rose       with weight 0.442
+token east       -> rose       with weight 0.379
+BatchItem : 4, layer:4, head:3 -> min:1.556403894653613e-08, max0.9818533062934875, entropy :0.40387162566185
+token the        -> sun        with weight 0.882
+token sun        -> rose       with weight 0.783
+token rose       -> in         with weight 0.982
+token in         -> the        with weight 0.936
+token the        -> east       with weight 0.935
+token east       -> east       with weight 0.736
+BatchItem : 4, layer:4, head:4 -> min:0.02542959339916706, max0.6439172029495239, entropy :1.5141669511795044
+token the        -> rose       with weight 0.432
+token sun        -> the        with weight 0.363
+token rose       -> east       with weight 0.246
+token in         -> rose       with weight 0.433
+token the        -> rose       with weight 0.644
+token east       -> rose       with weight 0.391
+BatchItem : 4, layer:4, head:5 -> min:0.015563988126814365, max0.40857070684432983, entropy :1.6541093587875366
+token the        -> the        with weight 0.224
+token sun        -> the        with weight 0.272
+token rose       -> the        with weight 0.299
+token in         -> rose       with weight 0.409
+token the        -> the        with weight 0.211
+token east       -> rose       with weight 0.284
+BatchItem : 4, layer:4, head:6 -> min:0.012094032019376755, max0.5541081428527832, entropy :1.4298815727233887
+token the        -> rose       with weight 0.315
+token sun        -> the        with weight 0.400
+token rose       -> the        with weight 0.479
+token in         -> the        with weight 0.416
+token the        -> east       with weight 0.554
+token east       -> east       with weight 0.428
+BatchItem : 4, layer:4, head:7 -> min:0.0368226021528244, max0.591363787651062, entropy :1.5826445817947388
+token the        -> the        with weight 0.292
+token sun        -> sun        with weight 0.399
+token rose       -> east       with weight 0.270
+token in         -> the        with weight 0.253
+token the        -> the        with weight 0.312
+token east       -> east       with weight 0.591
+BatchItem : 4, layer:5, head:0 -> min:0.0007014373550191522, max0.886133074760437, entropy :1.189261555671692
+token the        -> sun        with weight 0.628
+token sun        -> the        with weight 0.242
+token rose       -> in         with weight 0.399
+token in         -> east       with weight 0.465
+token the        -> east       with weight 0.729
+token east       -> east       with weight 0.886
+BatchItem : 4, layer:5, head:1 -> min:0.0007568152504973114, max0.9726018309593201, entropy :1.0051220655441284
+token the        -> sun        with weight 0.623
+token sun        -> sun        with weight 0.823
+token rose       -> rose       with weight 0.973
+token in         -> rose       with weight 0.407
+token the        -> east       with weight 0.382
+token east       -> east       with weight 0.662
+BatchItem : 4, layer:5, head:2 -> min:0.0032139935065060854, max0.8529309034347534, entropy :1.1490861177444458
+token the        -> the        with weight 0.671
+token sun        -> the        with weight 0.853
+token rose       -> the        with weight 0.627
+token in         -> rose       with weight 0.381
+token the        -> in         with weight 0.474
+token east       -> in         with weight 0.430
+BatchItem : 4, layer:5, head:3 -> min:0.00029784440994262695, max0.9316084980964661, entropy :0.7510450482368469
+token the        -> the        with weight 0.823
+token sun        -> sun        with weight 0.919
+token rose       -> rose       with weight 0.790
+token in         -> in         with weight 0.498
+token the        -> east       with weight 0.330
+token east       -> east       with weight 0.932
+BatchItem : 4, layer:5, head:4 -> min:0.002348663518205285, max0.8754250407218933, entropy :1.1753066778182983
+token the        -> the        with weight 0.415
+token sun        -> sun        with weight 0.863
+token rose       -> rose       with weight 0.875
+token in         -> rose       with weight 0.241
+token the        -> the        with weight 0.293
+token east       -> east       with weight 0.639
+BatchItem : 4, layer:5, head:5 -> min:0.03163934126496315, max0.3925192654132843, entropy :1.6754528284072876
+token the        -> sun        with weight 0.268
+token sun        -> the        with weight 0.393
+token rose       -> the        with weight 0.332
+token in         -> the        with weight 0.225
+token the        -> east       with weight 0.203
+token east       -> the        with weight 0.309
+BatchItem : 4, layer:5, head:6 -> min:2.8101783300371608e-06, max0.97691810131073, entropy :0.30548810958862305
+token the        -> sun        with weight 0.977
+token sun        -> rose       with weight 0.859
+token rose       -> in         with weight 0.899
+token in         -> the        with weight 0.862
+token the        -> east       with weight 0.934
+token east       -> east       with weight 0.973
+BatchItem : 4, layer:5, head:7 -> min:7.000772939136368e-08, max0.9988454580307007, entropy :0.23318909108638763
+token the        -> the        with weight 0.999
+token sun        -> the        with weight 0.999
+token rose       -> sun        with weight 0.961
+token in         -> rose       with weight 0.727
+token the        -> in         with weight 0.964
+token east       -> the        with weight 0.900

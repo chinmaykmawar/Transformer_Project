@@ -37,14 +37,15 @@ for text in texts:
     with torch.no_grad():
         logits, att_matrices= model(inputIDs)
 
-    
-    mask_pos = token_ids.index(tokenizer.token_to_id("[MASK]"))
+    mask_token_id = tokenizer.token_to_id("[MASK]")
+    assert mask_token_id is not None
+    mask_pos = token_ids.index(mask_token_id)
     masked_logits = logits[0, mask_pos]
     probs=torch.softmax(masked_logits, dim=-1)
 
     top_probs, top_ids = torch.topk(probs,k=5)
     print('\n\n',text)
     for token_id, prob in zip(top_ids,top_probs):
-        print(tokenizer.id_to_token(token_id.item()),prob.item())
+        print(tokenizer.id_to_token(int(token_id.item())),prob.item())
     
     print ('Probs:', top_probs.sum(), top_probs[0])
